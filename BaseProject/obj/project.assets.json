@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\30008225\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "\\\\FS\\STUDENT$\\30008225\\Desktop\\GUI Test Practice\\BaseProject\\BaseProject.csproj",
+      "projectName": "BaseProject",
+      "projectPath": "\\\\FS\\STUDENT$\\30008225\\Desktop\\GUI Test Practice\\BaseProject\\BaseProject.csproj",
+      "packagesPath": "C:\\Users\\30008225\\.nuget\\packages\\",
+      "outputPath": "\\\\FS\\STUDENT$\\30008225\\Desktop\\GUI Test Practice\\BaseProject\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\30008225\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.2"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.2": {}
+    }
+  }
+}
